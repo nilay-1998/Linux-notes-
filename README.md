@@ -1,30 +1,4 @@
-# Linux-notes-
-<!DOCTYPE html>
-
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Linux Notes — Field Guide</title>
-<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;600;700&family=Syne:wght@400;600;700;800&display=swap" rel="stylesheet">
-<style>
-  :root {
-    --bg: #0d1117;
-    --surface: #161b22;
-    --surface2: #1c2230;
-    --border: #30363d;
-    --green: #39d353;
-    --green-dim: #1a6b2a;
-    --cyan: #58c4dd;
-    --yellow: #e6c84a;
-    --orange: #f0883e;
-    --red: #f85149;
-    --purple: #bc8cff;
-    --text: #e6edf3;
-    --text-dim: #8b949e;
-    --text-muted: #484f58;
-  }
-
+# Linux-notes
 - { margin: 0; padding: 0; box-sizing: border-box; }
 
 html { scroll-behavior: smooth; }
